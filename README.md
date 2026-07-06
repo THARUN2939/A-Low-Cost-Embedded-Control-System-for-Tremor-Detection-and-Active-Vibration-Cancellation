@@ -273,10 +273,10 @@ B.Tech – Electronics and Communication Engineering
 VIT University, Vellore
 
 📧 Email:
-tharun.ravuru2022@vitstudent.ac.in
+tharunravuruofficial@gmail.com
 
 🔗 GitHub:
-https://github.com/yourusername
+https://github.com/THARUN2939
 
 ---
 
