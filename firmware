@@ -1,0 +1,14 @@
+# Firmware
+
+This folder contains the embedded firmware developed for the ESP32.
+
+Modules include
+
+- Sensor Reading
+- Digital Filtering
+- PD Controller
+- Servo Control
+
+The firmware is written using Arduino C++.
+
+Upload using Arduino IDE.
